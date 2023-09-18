@@ -111,6 +111,7 @@ li {
 .sixth-page {
   display: flex;
   justify-content: center;
+  background-color: rgb(27, 31, 34);
 }
 
 .wrap {
@@ -130,4 +131,35 @@ li {
 .mini-container {
   width: calc(90% / 5);
   border: 1px dotted;
+}
+
+/* barra di navigazione  */
+
+footer {
+  background-color: rgb(27, 31, 34);
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0 0 0;
+}
+hr {
+  border: solid 2px white;
+}
+
+.Bar {
+  width: 60%;
+  min-height: 60px;
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-content: last baseline;
+  padding: 1rem 0;
+}
+
+.bottone,
+.logo {
+  padding: 2px;
+  text-align: center;
+  background-color: rgb(188, 91, 91);
+  border: 2px dashed black;
+  margin-top: 18px;
 }
