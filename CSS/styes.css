@@ -68,3 +68,26 @@ li {
   width: 25%;
   min-height: 300px;
 }
+
+/* terza pagina */
+
+.third-page {
+  background-color: rgb(125, 124, 131);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem 0;
+}
+
+.page3-right {
+  background-color: cornflowerblue;
+  width: 40%;
+  min-height: 300px;
+}
+
+.page3-left {
+  background-color: rgba(234, 176, 176, 0.895);
+
+  width: 25%;
+  min-height: 300px;
+}
