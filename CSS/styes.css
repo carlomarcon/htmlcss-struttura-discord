@@ -46,3 +46,25 @@ li {
   width: 50%;
   min-height: 300px;
 }
+
+/* seconda pagina  */
+
+.second-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem 0;
+}
+
+.page2-left {
+  background-color: cornflowerblue;
+  width: 40%;
+  min-height: 300px;
+}
+
+.page2-right {
+  background-color: rgba(234, 176, 176, 0.895);
+
+  width: 25%;
+  min-height: 300px;
+}
