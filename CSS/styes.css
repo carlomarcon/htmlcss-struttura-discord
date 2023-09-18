@@ -90,3 +90,19 @@ li {
   width: 25%;
   min-height: 300px;
 }
+
+/* quinta pagina */
+
+.fifth-page {
+  background-color: rgb(125, 124, 131);
+  display: flex;
+  padding: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-fifth {
+  background-color: green;
+  width: 70%;
+  min-height: 500px;
+}
