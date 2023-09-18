@@ -30,3 +30,19 @@ li {
 .logo-right {
   text-align: right;
 }
+
+/* PRIMA PAGINA  */
+
+.first-page {
+  background-color: blue;
+  display: flex;
+  padding: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-1page {
+  background-color: hotpink;
+  width: 50%;
+  min-height: 300px;
+}
