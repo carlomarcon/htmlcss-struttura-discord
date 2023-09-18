@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+}
+.container-links {
+  display: flex;
+  background-color: rgb(117, 216, 236);
+  padding: 2rem 15rem;
+}
+
+.link {
+  width: 25%;
+  border: 2px solid;
+  background-color: rgb(179, 139, 30);
+  min-height: 2rem;
+  line-height: 2rem;
+}
+
+.center {
+  width: 50%;
+  text-align: center;
+}
+
+.logo-right {
+  text-align: right;
+}
